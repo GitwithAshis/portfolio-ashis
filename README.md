@@ -1,14 +1,14 @@
- Live Demo
 
+## Live Demo
 Check out the live version of the website here: [portfolio-ashis](https://gitwithashis.github.io/portfolio-ashis/)
 
-HTML Structure
+## HTML Structure
 - The HTML document begins with the `<!DOCTYPE html>` declaration, which specifies that the document is an HTML5 document.
 - The `<html>` tag is the root element of the HTML document, with the `lang` attribute set to "en" for English.
 - The `<head>` section contains meta-information about the document, including character encoding, viewport settings for responsive design, and links to external stylesheets and icons.
 - The `<body>` section contains the main content of the website, divided into various sections such as header, home, about, skills, work, and contact.
 
-Header Section:
+## Header Section:
 - The `<header>` element contains a navigation bar (`<nav>`) with a logo and a menu with links to different sections of the page (`Home`, `About`, `Skills`, `Work`, `Contact`).
 - The navigation menu is responsive, with a toggle button for mobile devices that shows or hides the menu when clicked.
 
@@ -46,7 +46,7 @@ Header Section:
 - The contact section includes styles for the form inputs and the send button.
 - The footer is styled with a background color, text color, and social media icons.
 
- JavaScript Explanation
+ ## JavaScript Explanation
 
 **Menu Show and Hide:**
 - A function (`showMenu`) is defined to toggle the visibility of the navigation menu on mobile devices by adding or removing a CSS class.
